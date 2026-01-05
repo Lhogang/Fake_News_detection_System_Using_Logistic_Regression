@@ -1,0 +1,1 @@
+ return "Real News " if prediction [0]==0 else "Fake News "
